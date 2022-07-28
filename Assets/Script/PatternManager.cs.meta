@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 7c468d3a30dc3cb4f8dee618decf363b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - StartPattern: {fileID: 1508325839268788, guid: 18d69805637f7814f90a1c313543ffad,
+      type: 3}
+  - pattern1: {fileID: 1104737806010974, guid: 862ad314081c81942b9ea45defbf1a72, type: 3}
+  - pattern2: {fileID: 1368463685053684, guid: 30a3204e40291aa4e815b9b3ebe67207, type: 3}
+  - pattern3: {fileID: 1104737806010974, guid: 81dd726a68fcff14ca7f678cbd8341df, type: 3}
+  - pattern4: {fileID: 1367886424716146, guid: dc2dcb3d9515ba949a22d65bbe1fd791, type: 3}
+  - pattern5: {fileID: 1039938666553744, guid: 47953c77f5aba6a4999cf690b152b4d4, type: 3}
+  - pattern6: {fileID: 1104737806010974, guid: 2fd7a8b1b5ee44242a4e5b2042b7a92c, type: 3}
+  - pattern7: {fileID: 1583441967478922, guid: ba98ac414ee40794ba06ac6d85d5dbb9, type: 3}
+  - pattern8: {fileID: 1104737806010974, guid: eb2ba1d8ccafd34489fe26eea129fc85, type: 3}
+  - pattern9: {fileID: 1986655476077274, guid: 9deea86b014c3e143ba3929e9330fcc4, type: 3}
+  - pattern10: {fileID: 1104737806010974, guid: 9840ddb5291ffd8419222975e3666dfd,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
